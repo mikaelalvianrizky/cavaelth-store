@@ -163,6 +163,21 @@ export const products = [
         },
         ],
     },
+    // {
+    //     id: 6,
+    //     name: 'Mobile Legends',
+    //     category: 'Game Top Up', // New Category
+    //     plans: [
+    //         {
+    //         type: 'Diamonds',
+    //         prices: [
+    //             { duration: '86 Diamonds', price: 25000 },
+    //             { duration: '172 Diamonds', price: 50000 },
+    //             { duration: '257 Diamonds', price: 75000 },
+    //         ]
+    //         }
+    //     ]
+    // }
     // You can add future products here, e.g.:
     // {
     //   id: 6,
